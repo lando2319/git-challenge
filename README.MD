@@ -10,7 +10,7 @@ Here is the Challenge:
 This repo is the end result of completing the challenge. Unfortunately there isn't a clean way to include all the repos created, therefore I'm just including the alpha directory. I'm open to other ideas on best to show the files and maintain the setup.
 
 
-Here are some helpful command I learned
+Here are some helpful commands I learned
 
 show git log with nice graph
 `git log --graph`
